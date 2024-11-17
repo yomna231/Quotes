@@ -1,0 +1,24 @@
+.heading{
+    font-size: 80px;
+    font-family: impact;
+}
+button{
+    border: 1px solid black;
+    width: 200px;
+    height: 80px;
+    padding: 0;
+    background-color:rgb(131, 105, 182);
+    color: #fff;
+    cursor:default !important;
+}
+button:hover{
+    background-color :rgb(176, 166, 210);
+    color: black;
+    border: 1px solid rgb(131, 105, 182);
+    box-shadow: 5px 5px 20px 1px rgb(162, 147, 190);
+}
+
+ #quote{
+    font-weight:500;
+    font-size: 20px;
+}
